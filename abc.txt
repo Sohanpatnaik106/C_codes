@@ -1,0 +1,16 @@
+algorithm specification
+	linear search	
+	binary search
+	bubble sort
+	
+recursion
+performance analysis
+array
+stack
+	
+evaluation of expression
+queue
+operations and applications of linear data structures
+
+a/(b/d)*e-k+(g*f) infix to postfix
+an array queue contains the names of students in a class write an algo to print students name strting from last to first also find out how mnay students names can still be added to array

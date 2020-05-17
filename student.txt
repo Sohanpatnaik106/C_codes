@@ -1,0 +1,14 @@
+13
+1601003 Neelarun Mukherjee 22.0 44.0 10.0
+1601007 Shubham Raj 99.0 78.0 81.0
+1601011 Vasanta Majety 88.5 67.5 93.5
+1601015 Arka Shankar 33.0 33.0 33.0
+1601016 Arkadeb Sengupta 66.0 66.0 62.5
+1601017 Rishabh Singhal 31.0 10.0 15.0
+1601021 Jai Gupta 45.0 79.0 99.0
+1601022 Hemanth PS 56.0 56.0 56.0
+1601025 Udit Agarwal 11.0  0.0 45.0
+1601027 Kailash Hudda 22.0 11.0 43.5
+1601029 Mithilesh Kumar 55.0 44.0 42.5
+1601032 Pramaya Kalgaonkar 95.0 55.0 77.5
+1601041 Dipesh Kumar 78.0 77.0 76.0

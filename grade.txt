@@ -1,0 +1,14 @@
+Shubham Raj 1601007 258.0 B
+Vasanta Majety 1601011 249.5 B
+Dipesh Kumar 1601041 231.0 C
+Pramaya Kalgaonkar 1601032 227.5 C
+Jai Gupta 1601021 223.0 C
+Tejaswini Mangalagiri 1601008 220.0 C
+Arkadeb Sengupta 1601016 194.5 D
+Hemanth PS 1601022 168.0 E
+Mithilesh Kumar 1601029 141.5 P
+Arka Shankar 1601015 99.0 P
+Kailash Hudda 1601027 76.5 F
+Neelarun Mukherjee 1601003 76.0 F
+Rishabh Singhal 1601017 56.0 F
+Udit Agarwal 1601025 56.0 F

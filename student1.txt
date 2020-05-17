@@ -1,0 +1,15 @@
+14
+1601011 Vasanta Majety 88.5 67.5 93.5
+1601021 Jai Gupta 45 79 99
+1601007 Shubham Raj 99 78 81
+1601041 Dipesh Kumar 78 77 76
+1601003 Neelarun Mukherjee 22 44 10
+1601017 Rishabh Singhal 31 10 15
+1601022 Hemanth PS 56 56 56
+1601025 Udit Agarwal 11 0 45
+1601032 Pramaya Kalgaonkar 95 55 77.5
+1601016 Arkadeb Sengupta 66 66 62.5
+1601029 Mithilesh Kumar 55 44 42.5
+1601015 Arka Shankar 33 33 33
+1601027 Kailash Hudda 22 11 43.5
+1601008 Tejaswini Mangalagiri 96 56 68
